@@ -6,7 +6,7 @@ second_time_return_error = SFDC.fetch_data(name: '武田製藥', age: 200, addre
 
 2. 延伸上題, 你猜測可能失敗的原因, 你會想要用什麼資料去試打API來驗證你猜測可能失敗的原因? (請試著用rspec 來寫測試)
 
-3. 請試著去了解 Saleforce 這家公司提供的 Apex REST api. 請試著解釋Saleforce 是做何用途? 為何要使用APEX api ? (請詳述你的理解過程)
+3. 請試著去了解 Salesforce 這家公司提供的 Apex REST api. 請試著解釋Salesforce 是做何用途? 為何要使用APEX api ? (請詳述你的理解過程)
 
 4. 假設你有一個 5000萬筆資料的 user_logs table.
 今天假如我想要刪除 user_logs 的 updated_at < 1.year.ago (約有500萬筆).
